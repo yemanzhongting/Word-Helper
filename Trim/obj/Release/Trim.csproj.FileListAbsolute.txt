@@ -1,0 +1,42 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\Trim\Trim\bin\Release\Trim.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\Trim\Trim\bin\Release\Trim.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\Trim\Trim\bin\Release\Trim.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Release\Trim.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Release\Trim.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Release\Trim.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Release\Trim.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Release\Trim.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Release\Trim.pdb
+C:\Users\Administrator\Desktop\Trim\Trim\bin\Release\Trim.exe.config
+C:\Users\Administrator\Desktop\Trim\Trim\obj\Release\Trim.exe
+C:\Users\Administrator\Desktop\Trim\Trim\obj\Release\Trim.pdb
+D:\visual2012工程\Trim2\Trim\obj\Release\Trim.csprojAssemblyReference.cache
+D:\visual2012工程\Trim2\Trim\obj\Release\Trim.Form1.resources
+D:\visual2012工程\Trim2\Trim\obj\Release\Trim.Properties.Resources.resources
+D:\visual2012工程\Trim2\Trim\obj\Release\Trim.csproj.GenerateResource.cache
+D:\visual2012工程\Trim2\Trim\obj\Release\Trim.csproj.CoreCompileInputs.cache
+D:\visual2012工程\Trim2\Trim\obj\Release\Trim.exe
+D:\visual2012工程\Trim2\Trim\obj\Release\Trim.pdb
+D:\visual2012工程\Trim2\Trim\bin\Release\Trim.exe.config
+D:\visual2012工程\Trim2\Trim\bin\Release\Trim.exe
+D:\visual2012工程\Trim2\Trim\bin\Release\Trim.pdb
+D:\visual2012工程\Trim2\Trim\bin\Release\Json.dll
+D:\visual2012工程\Trim2\Trim\bin\Release\Newtonsoft.Json.dll
+D:\visual2012工程\Trim2\Trim\bin\Release\Json.pdb
+D:\visual2012工程\Trim2\Trim\bin\Release\Newtonsoft.Json.xml
+D:\visual2012工程\Trim2\Trim\obj\Release\Trim.csproj.CopyComplete
+E:\visual2012工程\Trim2\Trim\bin\Release\Trim.exe.config
+E:\visual2012工程\Trim2\Trim\bin\Release\Trim.exe
+E:\visual2012工程\Trim2\Trim\bin\Release\Trim.pdb
+E:\visual2012工程\Trim2\Trim\bin\Release\Json.dll
+E:\visual2012工程\Trim2\Trim\bin\Release\Newtonsoft.Json.dll
+E:\visual2012工程\Trim2\Trim\bin\Release\Json.pdb
+E:\visual2012工程\Trim2\Trim\bin\Release\Newtonsoft.Json.xml
+E:\visual2012工程\Trim2\Trim\obj\Release\Trim.csprojAssemblyReference.cache
+E:\visual2012工程\Trim2\Trim\obj\Release\Trim.Form1.resources
+E:\visual2012工程\Trim2\Trim\obj\Release\Trim.Properties.Resources.resources
+E:\visual2012工程\Trim2\Trim\obj\Release\Trim.csproj.GenerateResource.cache
+E:\visual2012工程\Trim2\Trim\obj\Release\Trim.csproj.CoreCompileInputs.cache
+E:\visual2012工程\Trim2\Trim\obj\Release\Trim.csproj.CopyComplete
+E:\visual2012工程\Trim2\Trim\obj\Release\Trim.exe
+E:\visual2012工程\Trim2\Trim\obj\Release\Trim.pdb

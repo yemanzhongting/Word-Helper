@@ -1,0 +1,57 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Trim\Trim\bin\Debug\Trim.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Trim\Trim\bin\Debug\Trim.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Trim\Trim\bin\Debug\Trim.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Debug\Trim.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Debug\Trim.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Debug\Trim.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Debug\Trim.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Debug\Trim.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Trim\Trim\obj\Debug\Trim.pdb
+E:\Users\Administrator\Documents\Visual Studio 2013\Projects\Trim\Trim\bin\Debug\Trim.exe.config
+E:\Users\Administrator\Documents\Visual Studio 2013\Projects\Trim\Trim\obj\Debug\Trim.exe
+E:\Users\Administrator\Documents\Visual Studio 2013\Projects\Trim\Trim\obj\Debug\Trim.pdb
+E:\Users\Administrator\Documents\Visual Studio 2013\Projects\Trim\Trim\bin\Debug\Trim.exe
+E:\Users\Administrator\Documents\Visual Studio 2013\Projects\Trim\Trim\bin\Debug\Trim.pdb
+E:\Users\Administrator\Documents\Visual Studio 2013\Projects\Trim\Trim\obj\Debug\Trim.csprojResolveAssemblyReference.cache
+E:\Users\Administrator\Documents\Visual Studio 2013\Projects\Trim\Trim\obj\Debug\Trim.Form1.resources
+E:\Users\Administrator\Documents\Visual Studio 2013\Projects\Trim\Trim\obj\Debug\Trim.Properties.Resources.resources
+E:\Users\Administrator\Documents\Visual Studio 2013\Projects\Trim\Trim\obj\Debug\Trim.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Trim\Trim\bin\Debug\Trim.exe.config
+C:\Users\Administrator\Desktop\Trim\Trim\obj\Debug\Trim.exe
+C:\Users\Administrator\Desktop\Trim\Trim\obj\Debug\Trim.pdb
+C:\Users\Administrator\Desktop\Trim\Trim\bin\Debug\Trim.exe
+C:\Users\Administrator\Desktop\Trim\Trim\bin\Debug\Trim.pdb
+C:\Users\Administrator\Desktop\Trim\Trim\obj\Debug\Trim.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Trim\Trim\obj\Debug\Trim.Form1.resources
+C:\Users\Administrator\Desktop\Trim\Trim\obj\Debug\Trim.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Trim\Trim\obj\Debug\Trim.csproj.GenerateResource.Cache
+D:\visual2012工程\Trim2\Trim\bin\Debug\Trim.exe.config
+D:\visual2012工程\Trim2\Trim\obj\Debug\Trim.exe
+D:\visual2012工程\Trim2\Trim\obj\Debug\Trim.pdb
+D:\visual2012工程\Trim2\Trim\bin\Debug\Trim.exe
+D:\visual2012工程\Trim2\Trim\bin\Debug\Trim.pdb
+D:\visual2012工程\Trim2\Trim\obj\Debug\Trim.Form1.resources
+D:\visual2012工程\Trim2\Trim\obj\Debug\Trim.Properties.Resources.resources
+D:\visual2012工程\Trim2\Trim\obj\Debug\Trim.csproj.GenerateResource.Cache
+D:\visual2012工程\Trim2\Trim\bin\Debug\Json.dll
+D:\visual2012工程\Trim2\Trim\bin\Debug\Newtonsoft.Json.dll
+D:\visual2012工程\Trim2\Trim\bin\Debug\Json.pdb
+D:\visual2012工程\Trim2\Trim\bin\Debug\Newtonsoft.Json.xml
+D:\visual2012工程\Trim2\Trim\obj\Debug\Trim.csproj.CoreCompileInputs.cache
+D:\visual2012工程\Trim2\Trim\obj\Debug\Trim.csproj.CopyComplete
+D:\visual2012工程\Trim2\Trim\obj\Debug\Trim.csprojAssemblyReference.cache
+E:\visual2012工程\Trim2\Trim\bin\Debug\Trim.exe.config
+E:\visual2012工程\Trim2\Trim\bin\Debug\Trim.exe
+E:\visual2012工程\Trim2\Trim\bin\Debug\Trim.pdb
+E:\visual2012工程\Trim2\Trim\bin\Debug\Json.dll
+E:\visual2012工程\Trim2\Trim\bin\Debug\Newtonsoft.Json.dll
+E:\visual2012工程\Trim2\Trim\bin\Debug\Json.pdb
+E:\visual2012工程\Trim2\Trim\bin\Debug\Newtonsoft.Json.xml
+E:\visual2012工程\Trim2\Trim\obj\Debug\Trim.csprojAssemblyReference.cache
+E:\visual2012工程\Trim2\Trim\obj\Debug\Trim.Form1.resources
+E:\visual2012工程\Trim2\Trim\obj\Debug\Trim.Properties.Resources.resources
+E:\visual2012工程\Trim2\Trim\obj\Debug\Trim.csproj.GenerateResource.cache
+E:\visual2012工程\Trim2\Trim\obj\Debug\Trim.csproj.CoreCompileInputs.cache
+E:\visual2012工程\Trim2\Trim\obj\Debug\Trim.csproj.CopyComplete
+E:\visual2012工程\Trim2\Trim\obj\Debug\Trim.exe
+E:\visual2012工程\Trim2\Trim\obj\Debug\Trim.pdb
